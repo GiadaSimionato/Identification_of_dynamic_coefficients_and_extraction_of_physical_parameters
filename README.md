@@ -10,7 +10,6 @@ This work was completed on December 30th, 2019.
 ## Contents:
 
 - [Structure](#structure)
-- [Execution](#execution)
 - [References](#references)
 
 ## Structure
